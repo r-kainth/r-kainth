@@ -11,7 +11,7 @@ If I'm building it, I want it to be intelligent, efficient, and genuinely useful
 * **IT Quality Assurance Assistant | OPS** *(Sept 2024 – Apr 2025)*
   Validated application functionality for high-traffic provincial systems by executing 2,300+ precision test cases. I streamlined testing frameworks and collaborated to translate manual test logic into automated OpenText UFT One scripts, accelerating delivery cycles.
 
-### 🛠️ What I'm Building
+### 🛠️ What I've Built
 
 * **[Intelligent AI Trading Dashboard](https://github.com/r-kainth/intelligent-trading-dashboard-risk-calculator):** A fully functional machine learning solution for time series forecasting. It utilizes a highly modular data ingestion pipeline to parse financial data from REST APIs and features automated market sentiment analysis.
 * **[Synesthesia Neural Engine](https://github.com/r-kainth/synesthesia-neural-agent):** *(Work in Progress)* Inspired by a love for atmospheric audio and cinematic experiences, this project is an experimental playground for building neural engines. It bridges programmatic audio processing with Generative AI, synthesizing raw acoustic metrics to dynamically generate visual artwork based on exactly what you are listening to or watching.
