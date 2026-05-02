@@ -13,7 +13,7 @@ If I'm building it, I want it to be intelligent, efficient, and genuinely useful
 
 ### 🛠️ What I've Built
 
-* **[Intelligent AI Trading Dashboard](https://github.com/r-kainth/intelligent-trading-dashboard-risk-calculator):** A fully functional machine learning solution for time series forecasting. It utilizes a highly modular data ingestion pipeline to parse financial data from REST APIs and features automated market sentiment analysis.
+* **[Intelligent AI Trading Dashboard & Risk Calculator](https://github.com/r-kainth/intelligent-trading-dashboard-risk-calculator):** A fully functional machine learning solution for time series forecasting. It utilizes a highly modular data ingestion pipeline to parse financial data from REST APIs and features automated market sentiment analysis. There's also a custom risk calculator to help users plan and execute their next trade!
 * **[Synesthesia Neural Engine](https://github.com/r-kainth/synesthesia-neural-agent):** *(Work in Progress)* Inspired by a love for atmospheric audio and cinematic experiences, this project is an experimental playground for building neural engines. It bridges programmatic audio processing with Generative AI, synthesizing raw acoustic metrics to dynamically generate visual artwork based on exactly what you are listening to or watching.
 
 ### ⚙️ The Toolbox
