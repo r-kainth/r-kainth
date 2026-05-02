@@ -7,7 +7,7 @@ If I'm building it, I want it to be intelligent, efficient, and genuinely useful
 ### 💻 Where I've Been
 
 * **LLM/NLU Developer Intern | iNAGO Inc.** *(Jan 2026 – Mar 2026)*
-  Over a 12-week sprint, I integrated an academic research codebase for evaluating RAG-based AI assistants into a highly scalable, automated enterprise back-end. I also reduced pipeline execution time by 60% per run by optimizing system architecture through multithreading.
+  Over a 12-week sprint, I integrated an academic research codebase for evaluating RAG-based AI assistants into a highly scalable, automated enterprise back-end. I also reduced pipeline execution time by 60% per run by optimizing system architecture through multithreading and code refactoring.
 * **IT Quality Assurance Assistant | OPS** *(Sept 2024 – Apr 2025)*
   Validated application functionality for high-traffic provincial systems by executing 2,300+ precision test cases. I streamlined testing frameworks and collaborated to translate manual test logic into automated OpenText UFT One scripts, accelerating delivery cycles.
 
